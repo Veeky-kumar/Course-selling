@@ -19,7 +19,7 @@ app.use('/users', userRouter)
 
 //Step4:- Connect with the mongodb database using the connection string
 mongoose.connect(
-  Database_url ,
+  "mongodb+srv://vk133162:gj0vSDncxJM8U6Sh@cluster0.dejxqmm.mongodb.net/" ,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
