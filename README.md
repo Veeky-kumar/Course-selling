@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Course Selling Website - README
 # CoursePro
 This repository contains the code for a Course Selling Website built using the MERN (MongoDB, Express, React, Node.js) stack. The website allows admins to manage courses and users to browse and purchase courses.
@@ -67,3 +68,6 @@ Contributions to the Course Selling Website project are welcome. If you find any
 
 Thank you for using the Course Selling Website. If you have any questions or need further assistance, please don't hesitate to contact us. Happy learning!
 
+=======
+# Course-selling
+>>>>>>> 142457864b2e0409ea0469d41bf3cd3163c74e50
